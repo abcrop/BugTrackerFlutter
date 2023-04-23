@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "946734396615",
+    "project_id": "task-planner-test-b65a8",
+    "storage_bucket": "task-planner-test-b65a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946734396615:android:c8af1dded9b21bb78d7ae2",
+        "android_client_info": {
+          "package_name": "com.example.daily_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946734396615-e3rrvgcj42ob7e7genqr8j5cca5797es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLA3-z3r-vdPfoIolxJfBvgldwqc99Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946734396615-e3rrvgcj42ob7e7genqr8j5cca5797es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946734396615:android:6d1ae506901fe9558d7ae2",
+        "android_client_info": {
+          "package_name": "com.foliagesoft.taskplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946734396615-ssdd94uhdpdaq27f7kaaam9di3i0h5mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foliagesoft.taskplanner",
+            "certificate_hash": "cd58a5b8481bbf0240bf0a84767c37a7aca1997a"
+          }
+        },
+        {
+          "client_id": "946734396615-e3rrvgcj42ob7e7genqr8j5cca5797es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLA3-z3r-vdPfoIolxJfBvgldwqc99Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946734396615-e3rrvgcj42ob7e7genqr8j5cca5797es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
